@@ -1,0 +1,6 @@
+venv_pifuhd/ 
+__pycache__/ 
+*.pyc 
+checkpoints/pifuhd.pt 
+results/ 
+temp/ 
